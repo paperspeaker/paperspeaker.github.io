@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/paperspeaker.github.io/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/paperspeaker.github.io/static/js/main.c55a2f04.chunk.js",
-    "main.js.map": "/paperspeaker.github.io/static/js/main.c55a2f04.chunk.js.map",
+    "main.js": "/paperspeaker.github.io/static/js/main.15e4e52f.chunk.js",
+    "main.js.map": "/paperspeaker.github.io/static/js/main.15e4e52f.chunk.js.map",
     "runtime-main.js": "/paperspeaker.github.io/static/js/runtime-main.db97a65e.js",
     "runtime-main.js.map": "/paperspeaker.github.io/static/js/runtime-main.db97a65e.js.map",
     "static/js/2.17726a86.chunk.js": "/paperspeaker.github.io/static/js/2.17726a86.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.db97a65e.js",
     "static/js/2.17726a86.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.c55a2f04.chunk.js"
+    "static/js/main.15e4e52f.chunk.js"
   ]
 }
