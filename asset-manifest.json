@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/paperspeaker.github.io/static/css/main.68b66145.chunk.css",
-    "main.js": "/paperspeaker.github.io/static/js/main.87df67c2.chunk.js",
-    "main.js.map": "/paperspeaker.github.io/static/js/main.87df67c2.chunk.js.map",
-    "runtime-main.js": "/paperspeaker.github.io/static/js/runtime-main.207c83d2.js",
-    "runtime-main.js.map": "/paperspeaker.github.io/static/js/runtime-main.207c83d2.js.map",
-    "static/js/2.9e8a9398.chunk.js": "/paperspeaker.github.io/static/js/2.9e8a9398.chunk.js",
-    "static/js/2.9e8a9398.chunk.js.map": "/paperspeaker.github.io/static/js/2.9e8a9398.chunk.js.map",
-    "static/js/3.a5b7f9fd.chunk.js": "/paperspeaker.github.io/static/js/3.a5b7f9fd.chunk.js",
-    "static/js/3.a5b7f9fd.chunk.js.map": "/paperspeaker.github.io/static/js/3.a5b7f9fd.chunk.js.map",
+    "main.css": "/paperspeaker.github.io/static/css/main.49c329ce.chunk.css",
+    "main.js": "/paperspeaker.github.io/static/js/main.0c494b34.chunk.js",
+    "main.js.map": "/paperspeaker.github.io/static/js/main.0c494b34.chunk.js.map",
+    "runtime-main.js": "/paperspeaker.github.io/static/js/runtime-main.9ead6a88.js",
+    "runtime-main.js.map": "/paperspeaker.github.io/static/js/runtime-main.9ead6a88.js.map",
+    "static/js/2.86b2f3b4.chunk.js": "/paperspeaker.github.io/static/js/2.86b2f3b4.chunk.js",
+    "static/js/2.86b2f3b4.chunk.js.map": "/paperspeaker.github.io/static/js/2.86b2f3b4.chunk.js.map",
+    "static/js/3.90c4246c.chunk.js": "/paperspeaker.github.io/static/js/3.90c4246c.chunk.js",
+    "static/js/3.90c4246c.chunk.js.map": "/paperspeaker.github.io/static/js/3.90c4246c.chunk.js.map",
     "index.html": "/paperspeaker.github.io/index.html",
-    "static/css/main.68b66145.chunk.css.map": "/paperspeaker.github.io/static/css/main.68b66145.chunk.css.map",
-    "static/js/2.9e8a9398.chunk.js.LICENSE.txt": "/paperspeaker.github.io/static/js/2.9e8a9398.chunk.js.LICENSE.txt",
+    "static/css/main.49c329ce.chunk.css.map": "/paperspeaker.github.io/static/css/main.49c329ce.chunk.css.map",
+    "static/js/2.86b2f3b4.chunk.js.LICENSE.txt": "/paperspeaker.github.io/static/js/2.86b2f3b4.chunk.js.LICENSE.txt",
+    "static/media/github.6e10867b.svg": "/paperspeaker.github.io/static/media/github.6e10867b.svg",
+    "static/media/linkedIn.60581a02.svg": "/paperspeaker.github.io/static/media/linkedIn.60581a02.svg",
     "static/media/logo.6ce24c58.svg": "/paperspeaker.github.io/static/media/logo.6ce24c58.svg",
     "static/media/navbarLogo-2.73ac128a.png": "/paperspeaker.github.io/static/media/navbarLogo-2.73ac128a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.207c83d2.js",
-    "static/js/2.9e8a9398.chunk.js",
-    "static/css/main.68b66145.chunk.css",
-    "static/js/main.87df67c2.chunk.js"
+    "static/js/runtime-main.9ead6a88.js",
+    "static/js/2.86b2f3b4.chunk.js",
+    "static/css/main.49c329ce.chunk.css",
+    "static/js/main.0c494b34.chunk.js"
   ]
 }
