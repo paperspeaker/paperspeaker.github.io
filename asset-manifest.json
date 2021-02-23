@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/paperspeaker.github.io/static/css/main.554f3119.chunk.css",
-    "main.js": "/paperspeaker.github.io/static/js/main.8b771184.chunk.js",
-    "main.js.map": "/paperspeaker.github.io/static/js/main.8b771184.chunk.js.map",
+    "main.js": "/paperspeaker.github.io/static/js/main.ce9861c9.chunk.js",
+    "main.js.map": "/paperspeaker.github.io/static/js/main.ce9861c9.chunk.js.map",
     "runtime-main.js": "/paperspeaker.github.io/static/js/runtime-main.6ce4d3e4.js",
     "runtime-main.js.map": "/paperspeaker.github.io/static/js/runtime-main.6ce4d3e4.js.map",
     "static/js/2.15193e62.chunk.js": "/paperspeaker.github.io/static/js/2.15193e62.chunk.js",
@@ -12,6 +12,7 @@
     "index.html": "/paperspeaker.github.io/index.html",
     "static/css/main.554f3119.chunk.css.map": "/paperspeaker.github.io/static/css/main.554f3119.chunk.css.map",
     "static/js/2.15193e62.chunk.js.LICENSE.txt": "/paperspeaker.github.io/static/js/2.15193e62.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.c087539f.svg": "/paperspeaker.github.io/static/media/bootstrap.c087539f.svg",
     "static/media/css.3585a563.svg": "/paperspeaker.github.io/static/media/css.3585a563.svg",
     "static/media/github.6e10867b.svg": "/paperspeaker.github.io/static/media/github.6e10867b.svg",
     "static/media/html.52629b5a.svg": "/paperspeaker.github.io/static/media/html.52629b5a.svg",
@@ -20,12 +21,13 @@
     "static/media/logo.6ce24c58.svg": "/paperspeaker.github.io/static/media/logo.6ce24c58.svg",
     "static/media/navbarLogo-2.73ac128a.png": "/paperspeaker.github.io/static/media/navbarLogo-2.73ac128a.png",
     "static/media/react.73ac128a.png": "/paperspeaker.github.io/static/media/react.73ac128a.png",
+    "static/media/ruby-lang-icon.236bf978.svg": "/paperspeaker.github.io/static/media/ruby-lang-icon.236bf978.svg",
     "static/media/sass.4f6d501b.png": "/paperspeaker.github.io/static/media/sass.4f6d501b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6ce4d3e4.js",
     "static/js/2.15193e62.chunk.js",
     "static/css/main.554f3119.chunk.css",
-    "static/js/main.8b771184.chunk.js"
+    "static/js/main.ce9861c9.chunk.js"
   ]
 }
