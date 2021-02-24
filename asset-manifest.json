@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/paperspeaker.github.io/static/css/main.58067cc0.chunk.css",
-    "main.js": "/paperspeaker.github.io/static/js/main.242bb0c5.chunk.js",
-    "main.js.map": "/paperspeaker.github.io/static/js/main.242bb0c5.chunk.js.map",
-    "runtime-main.js": "/paperspeaker.github.io/static/js/runtime-main.3573b373.js",
-    "runtime-main.js.map": "/paperspeaker.github.io/static/js/runtime-main.3573b373.js.map",
+    "main.css": "/paperspeaker.github.io/static/css/main.7bc40bd9.chunk.css",
+    "main.js": "/paperspeaker.github.io/static/js/main.c8f0ecb3.chunk.js",
+    "main.js.map": "/paperspeaker.github.io/static/js/main.c8f0ecb3.chunk.js.map",
+    "runtime-main.js": "/paperspeaker.github.io/static/js/runtime-main.da786695.js",
+    "runtime-main.js.map": "/paperspeaker.github.io/static/js/runtime-main.da786695.js.map",
     "static/js/2.15193e62.chunk.js": "/paperspeaker.github.io/static/js/2.15193e62.chunk.js",
     "static/js/2.15193e62.chunk.js.map": "/paperspeaker.github.io/static/js/2.15193e62.chunk.js.map",
-    "static/js/3.7378c216.chunk.js": "/paperspeaker.github.io/static/js/3.7378c216.chunk.js",
-    "static/js/3.7378c216.chunk.js.map": "/paperspeaker.github.io/static/js/3.7378c216.chunk.js.map",
+    "static/js/3.b4e698b7.chunk.js": "/paperspeaker.github.io/static/js/3.b4e698b7.chunk.js",
+    "static/js/3.b4e698b7.chunk.js.map": "/paperspeaker.github.io/static/js/3.b4e698b7.chunk.js.map",
     "index.html": "/paperspeaker.github.io/index.html",
-    "static/css/main.58067cc0.chunk.css.map": "/paperspeaker.github.io/static/css/main.58067cc0.chunk.css.map",
+    "static/css/main.7bc40bd9.chunk.css.map": "/paperspeaker.github.io/static/css/main.7bc40bd9.chunk.css.map",
     "static/js/2.15193e62.chunk.js.LICENSE.txt": "/paperspeaker.github.io/static/js/2.15193e62.chunk.js.LICENSE.txt",
     "static/media/bootstrap.c087539f.svg": "/paperspeaker.github.io/static/media/bootstrap.c087539f.svg",
     "static/media/css.3585a563.svg": "/paperspeaker.github.io/static/media/css.3585a563.svg",
@@ -25,9 +25,9 @@
     "static/media/sass.4f6d501b.png": "/paperspeaker.github.io/static/media/sass.4f6d501b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3573b373.js",
+    "static/js/runtime-main.da786695.js",
     "static/js/2.15193e62.chunk.js",
-    "static/css/main.58067cc0.chunk.css",
-    "static/js/main.242bb0c5.chunk.js"
+    "static/css/main.7bc40bd9.chunk.css",
+    "static/js/main.c8f0ecb3.chunk.js"
   ]
 }
