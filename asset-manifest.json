@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/paperspeaker.github.io/static/css/main.7bc40bd9.chunk.css",
-    "main.js": "/paperspeaker.github.io/static/js/main.e4c2b900.chunk.js",
-    "main.js.map": "/paperspeaker.github.io/static/js/main.e4c2b900.chunk.js.map",
+    "main.js": "/paperspeaker.github.io/static/js/main.3df68246.chunk.js",
+    "main.js.map": "/paperspeaker.github.io/static/js/main.3df68246.chunk.js.map",
     "runtime-main.js": "/paperspeaker.github.io/static/js/runtime-main.da786695.js",
     "runtime-main.js.map": "/paperspeaker.github.io/static/js/runtime-main.da786695.js.map",
     "static/js/2.15193e62.chunk.js": "/paperspeaker.github.io/static/js/2.15193e62.chunk.js",
@@ -21,13 +21,13 @@
     "static/media/logo.6ce24c58.svg": "/paperspeaker.github.io/static/media/logo.6ce24c58.svg",
     "static/media/navbarLogo-2.73ac128a.png": "/paperspeaker.github.io/static/media/navbarLogo-2.73ac128a.png",
     "static/media/react.73ac128a.png": "/paperspeaker.github.io/static/media/react.73ac128a.png",
-    "static/media/ruby-lang-icon.236bf978.svg": "/paperspeaker.github.io/static/media/ruby-lang-icon.236bf978.svg",
+    "static/media/ruby.a85cf9bb.svg": "/paperspeaker.github.io/static/media/ruby.a85cf9bb.svg",
     "static/media/sass.4f6d501b.png": "/paperspeaker.github.io/static/media/sass.4f6d501b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.da786695.js",
     "static/js/2.15193e62.chunk.js",
     "static/css/main.7bc40bd9.chunk.css",
-    "static/js/main.e4c2b900.chunk.js"
+    "static/js/main.3df68246.chunk.js"
   ]
 }
