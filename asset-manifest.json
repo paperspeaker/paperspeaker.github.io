@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/paperspeaker.github.io/static/css/main.5a52c408.chunk.css",
-    "main.js": "/paperspeaker.github.io/static/js/main.1a24a8c9.chunk.js",
-    "main.js.map": "/paperspeaker.github.io/static/js/main.1a24a8c9.chunk.js.map",
+    "main.css": "/paperspeaker.github.io/static/css/main.6c7cbd94.chunk.css",
+    "main.js": "/paperspeaker.github.io/static/js/main.06c42ac4.chunk.js",
+    "main.js.map": "/paperspeaker.github.io/static/js/main.06c42ac4.chunk.js.map",
     "runtime-main.js": "/paperspeaker.github.io/static/js/runtime-main.da786695.js",
     "runtime-main.js.map": "/paperspeaker.github.io/static/js/runtime-main.da786695.js.map",
     "static/js/2.15193e62.chunk.js": "/paperspeaker.github.io/static/js/2.15193e62.chunk.js",
@@ -10,8 +10,9 @@
     "static/js/3.b4e698b7.chunk.js": "/paperspeaker.github.io/static/js/3.b4e698b7.chunk.js",
     "static/js/3.b4e698b7.chunk.js.map": "/paperspeaker.github.io/static/js/3.b4e698b7.chunk.js.map",
     "index.html": "/paperspeaker.github.io/index.html",
-    "static/css/main.5a52c408.chunk.css.map": "/paperspeaker.github.io/static/css/main.5a52c408.chunk.css.map",
+    "static/css/main.6c7cbd94.chunk.css.map": "/paperspeaker.github.io/static/css/main.6c7cbd94.chunk.css.map",
     "static/js/2.15193e62.chunk.js.LICENSE.txt": "/paperspeaker.github.io/static/js/2.15193e62.chunk.js.LICENSE.txt",
+    "static/media/AM_Cut.d968861b.png": "/paperspeaker.github.io/static/media/AM_Cut.d968861b.png",
     "static/media/bootstrap.c087539f.svg": "/paperspeaker.github.io/static/media/bootstrap.c087539f.svg",
     "static/media/csharp.cfedfa3f.svg": "/paperspeaker.github.io/static/media/csharp.cfedfa3f.svg",
     "static/media/css.3585a563.svg": "/paperspeaker.github.io/static/media/css.3585a563.svg",
@@ -20,7 +21,6 @@
     "static/media/javascript.9afca26a.png": "/paperspeaker.github.io/static/media/javascript.9afca26a.png",
     "static/media/linkedIn.60581a02.svg": "/paperspeaker.github.io/static/media/linkedIn.60581a02.svg",
     "static/media/logo.6ce24c58.svg": "/paperspeaker.github.io/static/media/logo.6ce24c58.svg",
-    "static/media/navbarLogo-2.73ac128a.png": "/paperspeaker.github.io/static/media/navbarLogo-2.73ac128a.png",
     "static/media/navbarLogo.6a38bb3f.png": "/paperspeaker.github.io/static/media/navbarLogo.6a38bb3f.png",
     "static/media/react.73ac128a.png": "/paperspeaker.github.io/static/media/react.73ac128a.png",
     "static/media/ruby.a85cf9bb.svg": "/paperspeaker.github.io/static/media/ruby.a85cf9bb.svg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.da786695.js",
     "static/js/2.15193e62.chunk.js",
-    "static/css/main.5a52c408.chunk.css",
-    "static/js/main.1a24a8c9.chunk.js"
+    "static/css/main.6c7cbd94.chunk.css",
+    "static/js/main.06c42ac4.chunk.js"
   ]
 }
